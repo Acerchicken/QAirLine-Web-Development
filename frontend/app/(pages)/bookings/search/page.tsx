@@ -91,9 +91,8 @@ const FlightBooking: React.FC = () => {
         setSearch((prev) => ({ ...prev, [name]: value }));
     };
 
-    const toPaymentPage = () => {
-        router.push(`/bookings/payment/`);
-    }
+    const toPaymentPage = (flight: Flight) => {
+        router.push(`/bookings/payment?flightID=${flight.FlightID}&departure=${flight.Departure}&arrival=${flight.Arrival}&departureTime=${formatedDate(flight.DepartureTime)}&arrivalTime=${formatedDate(flight.ArrivalTime)}&duration=${calculateFlightDuration(flight.DepartureTime, flight.ArrivalTime)}&price=${flight.Price}&planeType=${flight.AircraftTypeID}`);    }
 
     // Tính thời gian bay
     const calculateFlightDuration = (departureTime: string, arrivalTime: string) => {
@@ -133,7 +132,7 @@ const FlightBooking: React.FC = () => {
                             </div>
                         </div>
                         <div className={style.column}>
-                            <button onClick={toPaymentPage}>Economy<br />${flight.Price}</button>
+                            <button onClick={() => toPaymentPage(flight)}>Economy<br />${flight.Price}</button>
                             <button>Business<br />${flight.Price}</button>
                         </div>
                     </li>

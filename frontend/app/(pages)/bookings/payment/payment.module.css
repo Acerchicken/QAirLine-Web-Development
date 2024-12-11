@@ -1,0 +1,60 @@
+.payment {
+    margin: auto;
+    max-width: 1000px;
+    font-family: "Montserrat", sans-serif;
+    padding: 2rem 5rem;
+    background: var(--background);
+    color: var(--foreground);
+    /*border-radius: 5px;*/
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+}
+
+.payment h1 {
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.flightInfo {
+    display: flex;
+    margin-bottom: 1.5rem;
+    padding: 2rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    background: white;
+}
+
+.flightInfo .column {
+    flex: 2;
+    text-align: left;
+}
+
+.flightInfo .column:first-child {
+    flex: 4;
+    text-align: left;
+}
+
+.flightInfo .column:last-child {
+    flex: 1;
+    text-align: right;
+}
+
+
+
+
+.purchaseButton {
+    background: var(--foreground);
+    color: var(--background);
+    border: none;
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    display: block;
+    margin: 0 auto;
+}
+
+.purchaseButton:hover {
+    background: #333333;
+}

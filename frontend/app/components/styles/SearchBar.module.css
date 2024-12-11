@@ -19,10 +19,6 @@
     }
 }
 
-.searchbar label {
-
-}
-
 .searchbar select, .searchbar input {
     background: var(--foreground);
     color: var(--background);
@@ -50,7 +46,7 @@
     font-size: 1rem;
     transition: background-color 0.3s ease;
 
-    width: auto;                /* Đảm bảo kích thước tự động theo nội dung */
+    width: auto; /* Đảm bảo kích thước tự động theo nội dung */
     flex: none;                 /* Không cho nút co giãn theo flex */
     align-self: center;         /* Căn giữa nút nếu parent là flex */
 
