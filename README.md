@@ -1,7 +1,7 @@
 # QAirLine-Web-Development
 _Last update: 22-12-2024_
 
-![/] (QAirline.png "Tiêu chí chấm điểm")
+![Tiêu chí chấm điểm] (QAirline.png "QAirLine")
 
 ## Links Doc:
 - **Documentation:** [Google Docs](https://docs.google.com/document/d/1nODdki0r2RcgPhPUG_MXHBd9q2NtNPuFjhOxfeeOByA/edit?tab=t.jlgsr1vlsu89)
