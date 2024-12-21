@@ -1,6 +1,13 @@
 # QAirLine-Web-Development
 _Last update: 22-12-2024_
 
+---
+## Member Information
+### Các thành viên trong nhóm:
+- Nguyễn Thị Ngọc Mai - 22025510
+- Phạm Xuân Dương - 22025518
+- Trần Khánh Duy - 22025520
+
 ## Tiêu chí chấm điểm
 ![Tiêu chí chấm điểm](QAirline.png "Tiêu chí chấm điểm")
 
@@ -9,12 +16,6 @@ _Last update: 22-12-2024_
 - **Documentation:** [Google Docs](https://docs.google.com/document/d/1nODdki0r2RcgPhPUG_MXHBd9q2NtNPuFjhOxfeeOByA/edit?tab=t.jlgsr1vlsu89)
 - **Design:** [Figma](https://www.figma.com/design/JBdIUuN0Iz0ycq0D8HXC3C/WebDev-Airlines?node-id=1-6&p=f&t=F0wNqFaOixcfIrSt-0)
 
----
-## Member Information
-### Các thành viên trong nhóm:
-- Nguyễn Thị Ngọc Mai - 22025510
-- Phạm Xuân Dương - 22025518
-- Trần Khánh Duy - 22025520
 
 ### Phân công công việc chi tiết:
 #### 1. Mai - Frontend phần khách hàng
