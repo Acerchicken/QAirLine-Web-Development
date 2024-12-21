@@ -1,6 +1,8 @@
 # QAirLine-Web-Development
 _Last update: 22-12-2024_
 
+![/] (QAirline.png "Tiêu chí chấm điểm")
+
 ## Links Doc:
 - **Documentation:** [Google Docs](https://docs.google.com/document/d/1nODdki0r2RcgPhPUG_MXHBd9q2NtNPuFjhOxfeeOByA/edit?tab=t.jlgsr1vlsu89)
 - **Design:** [Figma](https://www.figma.com/design/JBdIUuN0Iz0ycq0D8HXC3C/WebDev-Airlines?node-id=1-6&p=f&t=F0wNqFaOixcfIrSt-0)
