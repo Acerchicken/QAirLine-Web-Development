@@ -1,7 +1,7 @@
 # QAirLine-Web-Development
 _Last update: 22-12-2024_
 
-![QAirline Logo](QAirline.png "QAirline Logo")
+![Tiêu chí chấm điểm](QAirline.png "Tiêu chí chấm điểm")
 
 
 ## Links Doc:
