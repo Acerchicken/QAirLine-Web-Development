@@ -2,8 +2,7 @@
 _Last update: 22-12-2024_
 
 ---
-## Member Information
-### Các thành viên trong nhóm:
+## Các thành viên trong nhóm:
 - Nguyễn Thị Ngọc Mai - 22025510
 - Phạm Xuân Dương - 22025518
 - Trần Khánh Duy - 22025520
@@ -65,7 +64,14 @@ _Last update: 22-12-2024_
   - Triển khai hệ thống lên Amazon Web Service.
 
 ---
+## Hướng dẫn chạy:
+Vào thư mục gốc, chạy lệnh "docker-compose up -d"
 
+
+
+
+
+---
 ## Git Branch
 - `main`
 - `develop`: Làm gì trên backend thì pull nhánh này.
